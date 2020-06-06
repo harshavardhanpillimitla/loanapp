@@ -1,5 +1,10 @@
 ### working
 on giving inputs (amount,no of months) it show the intrest and every month instalments by clicking submit the current state saved and displayed at left side of the page and it only save 10 history  and after that it refresh and repeated tuple {amount,month} are not saved again
+<br />
+
+### deployed on 
+https://loansemi.netlify.app/
+<br/>
 
 
 
